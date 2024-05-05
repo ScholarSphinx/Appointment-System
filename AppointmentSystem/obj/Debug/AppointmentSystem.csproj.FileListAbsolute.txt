@@ -1,0 +1,10 @@
+C:\Users\calvi\source\repos\AppointmentSystem\bin\Debug\AppointmentSystem.exe.config
+C:\Users\calvi\source\repos\AppointmentSystem\bin\Debug\AppointmentSystem.exe
+C:\Users\calvi\source\repos\AppointmentSystem\bin\Debug\AppointmentSystem.pdb
+C:\Users\calvi\source\repos\AppointmentSystem\obj\Debug\AppointmentSystem.csproj.AssemblyReference.cache
+C:\Users\calvi\source\repos\AppointmentSystem\obj\Debug\AppointmentSystem.Form1.resources
+C:\Users\calvi\source\repos\AppointmentSystem\obj\Debug\AppointmentSystem.Properties.Resources.resources
+C:\Users\calvi\source\repos\AppointmentSystem\obj\Debug\AppointmentSystem.csproj.GenerateResource.cache
+C:\Users\calvi\source\repos\AppointmentSystem\obj\Debug\AppointmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\calvi\source\repos\AppointmentSystem\obj\Debug\AppointmentSystem.exe
+C:\Users\calvi\source\repos\AppointmentSystem\obj\Debug\AppointmentSystem.pdb
